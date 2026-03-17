@@ -1,0 +1,13 @@
+# Claude Code
+.claude/
+
+# XMind转换输出文件
+*_转换.xmind
+*.xmind
+
+# Python
+__py__/
+*.pyc
+*.pyo
+.venv/
+venv/
